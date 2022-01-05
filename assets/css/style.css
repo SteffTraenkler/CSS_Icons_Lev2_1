@@ -1,0 +1,35 @@
+body{
+    line-height: 500%;
+    margin-top: 5rem;
+}
+
+h1{
+    text-align: center;
+}
+
+article{
+    text-indent: 1em;
+    font-size: 1.5em;
+    text-align: center;
+    padding-right: 5%;
+}
+
+.fab:nth-of-type(1){
+    color: blue;
+}
+
+.fab:nth-of-type(2){
+    color: magenta;
+}
+
+.fab:nth-of-type(3){
+    color: red;
+}
+
+.fab:nth-of-type(4){
+    color: rgb(39, 39, 138);
+}
+
+.fab:nth-of-type(5){
+    color: lime;
+}
